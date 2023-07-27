@@ -196,6 +196,7 @@ section
     height: 100px;
     width: 100px;
     margin: auto 0;
+    flex-direction: column;
 }
 
 .section__text
@@ -354,7 +355,6 @@ section
 {
     display: flex;
     justify-content: center;
-    flex-direction: column;
 }
 .article-container
 {
